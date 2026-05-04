@@ -1,0 +1,5 @@
+{
+  "name": "VectorShift: SVG to EPS Ultra",
+  "description": "High-velocity, production-grade vector conversion engine. Transform SVG assets to Encapsulated PostScript (EPS) with pixel-perfect accuracy and batch processing capabilities.",
+  "requestFramePermissions": []
+}
